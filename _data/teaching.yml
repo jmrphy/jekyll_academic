@@ -1,0 +1,28 @@
+# Author details
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+- title: Highly Innovative Course/Module
+  url: http://classwebsite.com
+  coinstructors: Joe Johnson
+  type: Traditional (lectures/seminars)
+  status: In progress
+  school: University of Learning
+  level: Graduate
+
+- title: Highly Innovative Course/Module 2
+  url: http://classwebsite.com
+  coinstructors: Joe Johnson
+  type: Workshop
+  status: Inactive
+  school: University of Learning
+  level: Undergraduate
+
+- title: Really Cool Autonomous Reading Group
+  url: http://classwebsite.com
+  type: Reading group
+  status: Inactive
+  school: None
+  level: Open

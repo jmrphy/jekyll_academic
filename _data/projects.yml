@@ -1,0 +1,23 @@
+# Author details
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+- title: Interesting Life Project 1
+  url: http://pdf.com
+  collaborators: Jane Smith
+  status: Ongoing
+
+- title: Interesting Life Project 2
+  url: http://pdf.com
+  collaborators: Jane Smith
+  status: Ongoing
+  resources: Some related text
+  resourcesurl: text.com
+  blog: blog.com/tag
+
+- title: Interesting Life Project 2
+  url: http://pdf.com
+  collaborators: Jane Smith
+  status: Ongoing

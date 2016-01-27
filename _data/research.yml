@@ -1,0 +1,26 @@
+# Author details
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+- title: Brilliant Article Title
+  pdfurl: http://pdf.com
+  coauthors: Jane Smith
+  status: Published
+  citation: <a href="http://yea.com">\"Brilliant Article Title\" in *Journal of Brilliance*.</a>
+  repo: github.com/code_and_data
+
+- title: Brilliant Article Title 2
+  pdfurl: http://pdf.com
+  coauthors:
+  status: Working paper
+  citation: \"Brilliant Article Title\" in *Journal of Brilliance*.
+  repo: github.com/code_and_data
+
+- title: Brilliant Article Title 3
+  pdfurl: http://pdf.com
+  coauthors: Jane Smith
+  status: Accepted with revisions
+  citation: \"Brilliant Article Title\" in *Journal of Brilliance*.
+  repo: github.com/code_and_data

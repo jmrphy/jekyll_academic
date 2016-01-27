@@ -1,0 +1,39 @@
+- title: "Home"
+  url: "/"
+  side: left
+  dropdown:
+  - title: "About me"
+    url: "/contact/"
+  - title: "In the media"
+    url: "/contact/"
+  - title: "Popular posts"
+    url: "/contact/"
+  - title: "Search"
+    url: "/contact/"
+
+- title: "Research"
+  url: "/research/"
+  side: right
+
+- title: "Teaching"
+  url: "/teaching/"
+  side: right
+
+- title: "Talks"
+  url: "/talks/"
+  side: right
+
+- title: "Other Projects"
+  url: "/projects/"
+  side: right
+
+- title: "CV"
+  url: "/cv/"
+  side: right
+
+- title: "Blog"
+  url: "/blog/"
+  side: right
+  dropdown:
+  - title: "Full Archive"
+    url: "/blog/archive/"

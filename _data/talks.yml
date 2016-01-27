@@ -1,0 +1,44 @@
+# Author details
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+- title: 2016 Annual Conference of Saying Things
+  location: University of Learning
+  date: June 8, 2016
+  slides: Name of presentation
+  slidesurl: http://slides.com
+  collaborators: Jane Johnson
+  type: Academic conference
+  resources: Lecture notes
+  resourcesurl: http://resources.com
+  citation: doi.8686868686
+  citationurl: doi.8686868686
+  blog: http://blog.com/tag
+
+- title: 2015 Annual Conference of Mammals
+  location: University of Getting Smart
+  date: June 8, 2016
+  slides: Name of presentation
+  slidesurl: http://slides.com
+  collaborators: Jane Johnson
+  type: Invited talk
+  resources: Lecture notes
+  resourcesurl: http://resources.com
+  citation: doi.8686868686
+  citationurl: doi.8686868686
+  blog: http://blog.com/tag
+
+- title: 2014 Annual Conference of Robots
+  location: Online
+  date: June 8, 2016
+  slides: Name of presentation
+  slidesurl: http://slides.com
+  collaborators: Jane Johnson
+  type: Autonomous political group
+  resources: Lecture notes
+  resourcesurl: http://resources.com
+  citation: doi.8686868686
+  citationurl: doi.8686868686
+  blog: http://blog.com/tag
