@@ -18,7 +18,7 @@
     <div class="hline"></div>
     {% for category in site.categories %}{% unless category.first == "blog" or category.first == "project" or category.first == "question" %}
         <p>
-            <a href="{{ '/blog/category/#'  | prepend: site.baseurl  }}{{ category | first }}"><span class="icon-archive pr10"></span>{{ category | first | capitalize }}</a>
+            <a href="{{ site.baseurl }}{{ 'category/#' }}{{ category | first }}"><span class="icon-archive pr10"></span>{{ category | first | capitalize }}</a>
             <span class="pull-right">{{ category | last | size }}</span>
         </p>
     {% endunless %}{% endfor %}
@@ -29,7 +29,7 @@
     <div class="hline"></div>
     <p>
     {% for tag in site.tags %}{% unless tag.first == "blog" or tag.first == "project" or tag.first == "question" %}
-            <a class="button tiny radius" href="{{ '/blog/tag/#'  | prepend: site.baseurl  }}{{ tag | first }}" role="button">{{ tag | first | lowercase }} ({{ tag | last | size }})</a>	         
+            <a class="button tiny radius" href="{{ site.baseurl }}{{ 'tag/#' }}{{ tag | first }}" role="button">{{ tag | first | lowercase }} ({{ tag | last | size }})</a>	         
         {% endunless %}{% endfor %}
     </p>
 
