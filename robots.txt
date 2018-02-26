@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://jmrphy.net/jekyll_academic/sitemap.xml

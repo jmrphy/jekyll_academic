@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://jmrphy.net/jekyll_academic/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="http://jmrphy.net/jekyll_academic/assets/css/rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Jekyll Academic</title>
+		<description>»Jekyll Academic« is a Jekyll theme with bells and whistles for academic blogging. A fork of »Feeling Responsive«, it uses the foundation framework with beautiful typography and a dark color palette.</description>
+		<link>http://jmrphy.net/jekyll_academic/</link>
+		<atom:link href="http://jmrphy.net/jekyll_academic/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Reading notes</title>
+				<link>http://jmrphy.net/jekyll_academic/literature/reading-notes/</link>
+				<pubDate>Fri, 26 Sep 2014 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about &lt;a href=&quot;http://foundation.zurb.com/docs/components/grid.html&quot;&gt;constructing  beautiful layouts&lt;/a&gt; in the foundation documentation.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;medium-4 columns t30&quot;&gt;
+    &lt;img src=&quot;http://jmrphy.net/jekyll_academic/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
+
+    &lt;div class=&quot;medium-4 columns t30&quot;&gt;
+      &lt;img src=&quot;http://jmrphy.net/jekyll_academic/images/gallery-example-5.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
+
+    &lt;div class=&quot;medium-4 columns t30&quot;&gt;
+      &lt;img src=&quot;http://jmrphy.net/jekyll_academic/images/gallery-example-6.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
+
+&lt;/div&gt;
+&lt;!-- /.row --&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;medium-8 columns t30&quot;&gt;
+    &lt;img src=&quot;http://jmrphy.net/jekyll_academic/images/gallery-example-7.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;&lt;!-- /.medium-8.columns --&gt;
+
+    &lt;div class=&quot;medium-4 columns t30&quot;&gt;
+      &lt;img src=&quot;http://jmrphy.net/jekyll_academic/images/gallery-example-3.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;img class=&quot;t30&quot; src=&quot;http://jmrphy.net/jekyll_academic/images/gallery-example-8.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
+
+&lt;/div&gt;
+&lt;!-- /.row --&gt;
+
+</description>
+				<guid isPermaLink="true">http://jmrphy.net/jekyll_academic/literature/reading-notes/</guid>
+			</item>
+		
+			<item>
+				<title>Preliminary findings</title>
+				<link>http://jmrphy.net/jekyll_academic/social%20science/preliminary-findings/</link>
+				<pubDate>Tue, 19 Aug 2014 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about &lt;a href=&quot;http://foundation.zurb.com/docs/components/grid.html&quot;&gt;constructing  beautiful layouts&lt;/a&gt; in the foundation documentation.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;ruby&quot;&gt;Flanagan, D., &amp;amp; Matsumoto, Y. (2008). &lt;i&gt;The Ruby Programming Language&lt;/i&gt;. O’Reilly Media.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
+
+</description>
+				<guid isPermaLink="true">http://jmrphy.net/jekyll_academic/social%20science/preliminary-findings/</guid>
+			</item>
+		
+			<item>
+				<title>Instructional video</title>
+				<link>http://jmrphy.net/jekyll_academic/social%20science/film%20studies/instructional-video/</link>
+				<pubDate>Sat, 26 Apr 2014 00:00:00 +0100</pubDate>
+				<description>&lt;!--more--&gt;
+
+&lt;h2 id=&quot;about-the-video-by-kutiman&quot;&gt;About the video by Kutiman&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ophir Kutiel, professionally known as Kutiman, is an Israeli musician, composer, producer and animator. He is best known for creating the online music video project, ThruYOU, and a self-titled album. &lt;cite&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Kutiman&quot;&gt;Wikipedia&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Source: &lt;a href=&quot;https://www.youtube.com/watch?v=WoHxoz_0ykI&quot;&gt;Kutiman – Thru You Too – »Give It Up«&lt;/a&gt;&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://jmrphy.net/jekyll_academic/social%20science/film%20studies/instructional-video/</guid>
+			</item>
+		
+	</channel>
+</rss>

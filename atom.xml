@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://jmrphy.net/jekyll_academic/</id>
+	<title>Jekyll Academic</title>
+	<updated>2018-02-26T23:23:48+00:00</updated>
+
+	<subtitle>»Jekyll Academic« is a Jekyll theme with bells and whistles for academic blogging. A fork of »Feeling Responsive«, it uses the foundation framework with beautiful typography and a dark color palette.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>Justin Murphy</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="http://jmrphy.net/jekyll_academic/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://jmrphy.net/jekyll_academic/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="3.0.0">Jekyll</generator>
+
+	
+		<entry>
+			<id>http://jmrphy.net/jekyll_academic/literature/reading-notes/</id>
+			<title>Reading notes</title>
+			<link href="http://jmrphy.net/jekyll_academic/literature/reading-notes/" rel="alternate" type="text/html" title="Reading notes" />
+			<updated>2014-09-26T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Justin Murphy</name>
+					
+					
+						<email>j.murphy@soton.ac.uk</email>
+					
+					
+						<uri>http://jmrphy.net/</uri>
+					
+				</author>
+			
+			<summary>Contains plot spoilers.</summary>
+			<content type="html" xml:base="http://jmrphy.net/jekyll_academic/literature/reading-notes/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about &lt;a href=&quot;http://foundation.zurb.com/docs/components/grid.html&quot;&gt;constructing  beautiful layouts&lt;/a&gt; in the foundation documentation.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;medium-4 columns t30&quot;&gt;
+    &lt;img src=&quot;http://jmrphy.net/jekyll_academic/images/gallery-example-4.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
+
+    &lt;div class=&quot;medium-4 columns t30&quot;&gt;
+      &lt;img src=&quot;http://jmrphy.net/jekyll_academic/images/gallery-example-5.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
+
+    &lt;div class=&quot;medium-4 columns t30&quot;&gt;
+      &lt;img src=&quot;http://jmrphy.net/jekyll_academic/images/gallery-example-6.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
+
+&lt;/div&gt;
+&lt;!-- /.row --&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;medium-8 columns t30&quot;&gt;
+    &lt;img src=&quot;http://jmrphy.net/jekyll_academic/images/gallery-example-7.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;&lt;!-- /.medium-8.columns --&gt;
+
+    &lt;div class=&quot;medium-4 columns t30&quot;&gt;
+      &lt;img src=&quot;http://jmrphy.net/jekyll_academic/images/gallery-example-3.jpg&quot; alt=&quot;&quot; /&gt;
+      &lt;img class=&quot;t30&quot; src=&quot;http://jmrphy.net/jekyll_academic/images/gallery-example-8.jpg&quot; alt=&quot;&quot; /&gt;
+    &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
+
+&lt;/div&gt;
+&lt;!-- /.row --&gt;
+
+</content>
+
+			
+				<category term="literature" />
+			
+			
+				<category term="Shakespeare" />
+			
+				<category term="Hamlet" />
+			
+
+			<published>2014-09-26T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://jmrphy.net/jekyll_academic/social%20science/preliminary-findings/</id>
+			<title>Preliminary findings</title>
+			<link href="http://jmrphy.net/jekyll_academic/social%20science/preliminary-findings/" rel="alternate" type="text/html" title="Preliminary findings" />
+			<updated>2014-08-19T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Justin Murphy</name>
+					
+					
+						<email>j.murphy@soton.ac.uk</email>
+					
+					
+						<uri>http://jmrphy.net/</uri>
+					
+				</author>
+			
+			<summary>New data suggests pet ownership a determinant of voting behavior</summary>
+			<content type="html" xml:base="http://jmrphy.net/jekyll_academic/social%20science/preliminary-findings/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about &lt;a href=&quot;http://foundation.zurb.com/docs/components/grid.html&quot;&gt;constructing  beautiful layouts&lt;/a&gt; in the foundation documentation.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;ruby&quot;&gt;Flanagan, D., &amp;amp; Matsumoto, Y. (2008). &lt;i&gt;The Ruby Programming Language&lt;/i&gt;. O’Reilly Media.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
+
+</content>
+
+			
+				<category term="social science" />
+			
+			
+				<category term="behavior" />
+			
+				<category term="pet ownership" />
+			
+
+			<published>2014-08-19T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://jmrphy.net/jekyll_academic/social%20science/film%20studies/instructional-video/</id>
+			<title>Instructional video</title>
+			<link href="http://jmrphy.net/jekyll_academic/social%20science/film%20studies/instructional-video/" rel="alternate" type="text/html" title="Instructional video" />
+			<updated>2014-04-26T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Justin Murphy</name>
+					
+					
+						<email>j.murphy@soton.ac.uk</email>
+					
+					
+						<uri>http://jmrphy.net/</uri>
+					
+				</author>
+			
+			<summary>A nice big video, front and center, using the video template.</summary>
+			<content type="html" xml:base="http://jmrphy.net/jekyll_academic/social%20science/film%20studies/instructional-video/">&lt;!--more--&gt;
+
+&lt;h2 id=&quot;about-the-video-by-kutiman&quot;&gt;About the video by Kutiman&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ophir Kutiel, professionally known as Kutiman, is an Israeli musician, composer, producer and animator. He is best known for creating the online music video project, ThruYOU, and a self-titled album. &lt;cite&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Kutiman&quot;&gt;Wikipedia&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Source: &lt;a href=&quot;https://www.youtube.com/watch?v=WoHxoz_0ykI&quot;&gt;Kutiman – Thru You Too – »Give It Up«&lt;/a&gt;&lt;/p&gt;
+</content>
+
+			
+				<category term="social science" />
+			
+				<category term="film studies" />
+			
+			
+				<category term="video" />
+			
+				<category term="teaching" />
+			
+
+			<published>2014-04-26T00:00:00+01:00</published>
+		</entry>
+	
+</feed>
